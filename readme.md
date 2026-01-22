@@ -32,21 +32,39 @@ This repository contains Computer Graphics lab assignments implemented in **Pyth
 
 ### **Lab 1: 2D Primitives & Animation**
 *Focus: Basic OpenGL primitives (`GL_POINTS`, `GL_LINES`, `GL_TRIANGLES`), interaction, and animation.*
+
 - **Task 1 (House in Rainfall):** A 2D scene featuring animated rain with wind direction control (arrow keys) and a day/night background transition.
-![Lab 1 Task 1 - House in Rainfall](https://i.ibb.co.com/BHP5RdYb/L1-T1.jpg)
+
+<p align="center">
+  <img src="https://i.ibb.co.com/BHP5RdYb/L1-T1.jpg" alt="Lab 1 Task 1 - House in Rainfall">
+</p>
+
 - **Task 2 (The Amazing Box):** An interactive simulation of bouncing points featuring mouse-click spawning, speed adjustments, and blink effects.
-![Lab 1 Task 2 - The Amazing Box](https://i.ibb.co.com/TDvQtNSc/L1-T2.jpg)
+
+<p align="center">
+  <img src="https://i.ibb.co.com/TDvQtNSc/L1-T2.jpg" alt="Lab 1 Task 2 - The Amazing Box">
+</p>
 
 ### **Lab 2: Midpoint Line Drawing Algorithm**
 *Focus: Scan conversion algorithms and 8-way symmetry.*
+
 - **Project (Catch the Diamonds):** A falling-object game rendered entirely using the **Midpoint Line Drawing Algorithm** (generating lines using only `GL_POINTS`).
-![Lab 2 - Catch the Diamonds](https://i.ibb.co.com/dwM6MZN1/L2.jpg)
+
+<p align="center">
+  <img src="https://i.ibb.co.com/dwM6MZN1/L2.jpg" alt="Lab 2 - Catch the Diamonds">
+</p>
+
 - **Features:** Custom implementation of lines for all 8 zones, AABB collision detection, and interactive UI buttons (Pause, Resume, Restart).
 
 ### **Lab 3: 3D Transformations & Projections**
 *Focus: 3D Coordinate systems, Geometric Transformations, and Camera Control.*
+
 - **Project (Bullet Frenzy):** A 3D shooter game utilizing `gluPerspective` and `gluLookAt` for scene rendering.
-![Lab 3 - Bullet Frenzy](https://i.ibb.co.com/7xsnjjw9/L3.jpg)
+
+<p align="center">
+  <img src="https://i.ibb.co.com/7xsnjjw9/L3.jpg" alt="Lab 3 - Bullet Frenzy">
+</p>
+
 - **Features:**
   - **3D Modeling:** Hierarchical character models (Player, Enemies) built using cylinders and spheres.
   - **Camera:** Toggleable **First-Person** and **Third-Person** perspective modes.
